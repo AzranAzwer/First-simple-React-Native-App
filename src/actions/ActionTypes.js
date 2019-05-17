@@ -1,0 +1,4 @@
+export const AUTHENTICATED_USER = "AUTHENTICATED_USER";
+export const SIGNUP_ERRORS = "SIGNUP_ERRORS";
+export const FETCHING = "FETCHING";
+export const FETCHED = "FETCHED";
